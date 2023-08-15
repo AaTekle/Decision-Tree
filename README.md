@@ -21,7 +21,7 @@ To get started with this project, you will need to have Python and the Scikit-le
 
 ## Dataset
 
-The dataset used in this project is the Pima Indians Diabetes Dataset. This dataset contains 768 observations of 9 features, including:
+The dataset used in this project is the National Institute of Diabetes and Digestive and Kidney Diseases Diabetes Dataset. This dataset contains observations of 9 features, including:
 
 * Pregnancies: Number of times pregnant
 * Glucose: Plasma glucose concentration a 2 hours in an oral glucose tolerance test
