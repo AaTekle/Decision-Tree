@@ -1,4 +1,4 @@
-# Decision-Tree-Algorithm
+# Decision-Tree
 
 # Diabetes Prediction using a Decision Tree Algorithm
 
