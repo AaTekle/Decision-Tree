@@ -2,7 +2,8 @@
 
 # Diabetes Prediction using a Decision Tree Algorithm
 
-This project uses a decision tree algorithm to predict whether a patient has diabetes or not. This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective is to predict based on diagnostic measurements whether a patient has diabetes.
+This project uses a decision tree 
+to predict whether a patient has diabetes or not. This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective is to predict based on diagnostic measurements whether a patient has diabetes.
 
 The project is implemented in Python using the Pandas & Scikit-learn libraries. The steps involved are:
 
