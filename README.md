@@ -13,13 +13,7 @@ The project is implemented in Python using the Pandas & Scikit-learn libraries. 
 4. Building the decision tree model
 5. Evaluating the model performance
 6. Visualizing the decision tree
-
-The project also includes a Jupyter notebook that walks through the implementation in more detail.
-
-## Getting Started
-
-To get started with this project, you will need to have Python and the Scikit-learn library installed. Once you have these installed, you can clone the GitHub repository and open the Jupyter notebook.
-
+   
 ## Dataset
 
 The dataset used in this project is the National Institute of Diabetes and Digestive and Kidney Diseases Diabetes Dataset. This dataset contains observations of 9 features, including:
@@ -44,7 +38,4 @@ The decision tree can be visualized using the Scikit-learn `export_graphviz` fun
 
 ## Conclusion
 
-This project demonstrates how to use a decision tree algorithm to predict whether a patient has diabetes or not. The project is implemented in Python using the Scikit-learn library. The project also includes a Jupyter notebook that walks through the implementation in more detail.
-
-
-I hope this is helpful!
+This project uses a decision tree algorithm to predict whether a patient has diabetes or not. The project is implemented in Python using the Scikit-learn library.
