@@ -30,12 +30,12 @@ The dataset used in this project is the National Institute of Diabetes and Diges
 
 ## Model
 
-The decision tree model is built using the Scikit-learn `DecisionTreeClassifier` class. The model is trained on the training set and evaluated on the test set. The accuracy of the model is 71.43%.
+The decision tree model is built using the Scikit-learn - DecisionTreeClassifier model. The accuracy of the model is 71.43%.
 
 ## Visualization
 
-The decision tree can be visualized using the Scikit-learn `export_graphviz` function. The visualization can be saved as a PNG image or a PDF file.
+The decision tree can be visualized using the Scikit-learn `export_graphviz` function.
 
 ## Conclusion
 
-This project uses a decision tree algorithm to predict whether a patient has diabetes or not. The project is implemented in Python using the Scikit-learn library.
+This project uses a decision tree algorithm to predict whether a patient has diabetes or not.
